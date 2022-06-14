@@ -1,8 +1,13 @@
 
  <h1>Picker 3D Zynga Clone via Unity</h1>
+
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mWul0e3snUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Click, Watch the video
+
 <br>
+
+[![Watch the video](http://img.youtube.com/vi/mWul0e3snUE/0.jpg)](https://youtu.be/mWul0e3snUE)
+
 <div>
  <img marign=10px width=200px height=200px src="img/1.jpg" alt="Project logo"></a>
 <br><br>
